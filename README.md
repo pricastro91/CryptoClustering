@@ -1,6 +1,16 @@
-# CryptoClustering
-Rename the Crypto_Clustering_starter_code.ipynb file as Crypto_Clustering.ipynb.
+# Module 10 : Crypto Clustering
 
-Load the crypto_market_data.csv into a DataFrame.
+In this Challenge, created a Jupyter notebook that clusters cryptocurrencies by their performance in different time periods and created plot to analyse the results.
 
-Get the summary statistics and plot the data to see what the data looks like before proceeding.
+## Solution
+
+Run crypto_investments.ipynb, for analysis and results.
+
+### Analysis Data
+
+Data used for analysis is saved in below mentioned csv file in resources folder.
+
+* `crypto_market_data.csv`: contains coin data for different time periods.
+
+
+
